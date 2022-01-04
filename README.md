@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on MERN Stack.
 - 🤔 I’m looking for help with how to do Open Source Contribution.
