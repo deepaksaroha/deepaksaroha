@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on MERN Stack.
 - 📫 How to reach me: 
-  - LinkedIn : www.linkedin.com/in/deepak-saroha-b63466b3
+  - LinkedIn : www.linkedin.com/in/deepak-saroha1
   - YahooMail : deepaksaroha@yahoo.com
 
