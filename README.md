@@ -64,14 +64,6 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksaroha&theme=vue&show_icons=true&locale=en&layout=compact"
-    alt="deepaksaroha"
-  />
-</p>
-
-<p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=deepaksaroha&theme=vue&show_icons=true&locale=en"
