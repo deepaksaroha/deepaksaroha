@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently working as a full stack developer.
+- 🌱 I’m currently learning Web Development.
+- I'm available for collaboration on React.js or Node.js related stuff. 
 - 📫 How to reach me: 
   - [LinkedIn](https://linkedin.com/in/deepak-saroha1)
   - [Gmail](mailto:deepaksaroha1993@gmail.com)
