@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+- Learning Nextjs, TypeScript, Graphql
 - 🌱 I’m currently working as a full stack developer.
 - I'm available for collaboration on React.js or Node.js related stuff. 
 - 📫 How to reach me: 
