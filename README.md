@@ -55,6 +55,14 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" />
     </a>
+    <a href="https://redux.js.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="postman" width="40"
+            height="40" />
+    </a>
+    <a href="https://https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="postman" width="40"
+            height="40" />
+    </a>
 </p>
 
 <p>
